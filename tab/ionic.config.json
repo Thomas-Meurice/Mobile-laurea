@@ -1,0 +1,7 @@
+{
+  "name": "tab",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
